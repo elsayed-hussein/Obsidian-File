@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "a11ab7e3977d4f52",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6b100c5df3e22e5",
+        "type": "leaf",
+        "dimension": 50.91883614088821,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Learning Vim.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "f16a1144feda00d2"
+      },
+      {
+        "id": "9c69b7d21efe5476",
+        "type": "leaf",
+        "dimension": 49.08116385911179,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Learning Vim.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "f16a1144feda00d2"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a9ab76cf48a33f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eb9451ac4987c68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3af5f1f65f6be9bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f03a623e43c4afd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7af8b4839573ebe5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 175.5
+  },
+  "right": {
+    "id": "c375f83d28755536",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba6814491c4ad966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7aab444572c5d14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning Vim.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "23514c548480e70d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning Vim.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a46f9e6ec3ab3e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69b768fb5fcad138",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learning Vim.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e6b100c5df3e22e5",
+  "lastOpenFiles": [
+    "Learning Obsidian.md",
+    "Learning Vim.md"
+  ]
+}
