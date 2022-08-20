@@ -78,7 +78,11 @@ ___
 | -------- | -------------- |
 | John Doe | john@gmail.com |
 | Jane Doe | jane@gmail.com |
-
+<!-- Tables Aling --> 
+| Packages | Description          | Version |
+| :---     |    :----:            |    ---: |
+| React    | JavaScript Framework | v18.0   |
+| Next.js  | React Framework      | v12.0   |
 <!-- Task List -->
 * [x] Task 1
 * [x] Task 2
@@ -105,7 +109,7 @@ term
 
 <!-- Emoji -->
 
-That is so funny! :joy:
+Emoji's are fun! :joy:
 
 
   <!-- Highlight -->
@@ -121,3 +125,17 @@ H~2~O
 <!-- Superscript -->
  
 X^2^
+
+<!-- Comments -->
+
+
+[This is a hidden comment.]: # 
+
+<!-- Toggle -->
+
+<details>
+  <summary>:zap: This is a toggle!</summary>
+  Contents of toggle.
+</details>
+
+
