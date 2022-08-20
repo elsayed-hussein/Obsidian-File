@@ -4,32 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6b100c5df3e22e5",
+        "id": "2706e7735b7271d3",
         "type": "leaf",
-        "dimension": 50.91883614088821,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learning Vim.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "f16a1144feda00d2"
-      },
-      {
-        "id": "9c69b7d21efe5476",
-        "type": "leaf",
-        "dimension": 49.08116385911179,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Learning Vim.md",
+            "file": "Learning Markdown.md",
             "mode": "preview",
             "source": false
           }
-        },
-        "group": "f16a1144feda00d2"
+        }
       }
     ],
     "direction": "vertical"
@@ -56,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#custom-id",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +57,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 175.5
+    "width": 175.5,
+    "collapsed": true
   },
   "right": {
     "id": "c375f83d28755536",
@@ -93,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Vim.md",
+                "file": "Learning Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Vim.md",
+                "file": "Learning Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Vim.md"
+                "file": "Learning Markdown.md"
               }
             }
           }
@@ -144,9 +130,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e6b100c5df3e22e5",
+  "active": "2706e7735b7271d3",
   "lastOpenFiles": [
     "Learning Obsidian.md",
-    "Learning Vim.md"
+    "Learning Markdown.md",
+    "Learning Vim.md",
+    "`.md"
   ]
 }
