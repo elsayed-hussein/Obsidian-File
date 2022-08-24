@@ -1,2 +1,2 @@
-# Learing Obsidian 
+# Learning Obsidian 
 
