@@ -89,7 +89,7 @@ ___
 * [ ] Task 3
 
 <!-- Link to Obsidian -->
-[[Learning Obsidian#Learing Obsidian|Linke to Obsidian]]
+[[Obsidian#Learing Obsidian|Linke to Obsidian]]
 
 <!-- Footnote -->
 Here's a sentence with a footnote. [^1]  

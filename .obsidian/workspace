@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learning Obsidian.md",
+            "file": "INTRO TO NETWORKING.md",
             "mode": "source",
             "source": true
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 175.5
+    "width": 175.5,
+    "collapsed": true
   },
   "right": {
     "id": "c375f83d28755536",
@@ -70,7 +71,7 @@
       {
         "id": "39eb3969e8e68d93",
         "type": "tabs",
-        "dimension": 37.085137085137085,
+        "dimension": 53.099173553719,
         "children": [
           {
             "id": "f11414c5af4f35fb",
@@ -78,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Learning Obsidian.md",
+                "file": "INTRO TO NETWORKING.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -112,7 +113,7 @@
       {
         "id": "ba6814491c4ad966",
         "type": "tabs",
-        "dimension": 32.75613275613276,
+        "dimension": 46.900826446281,
         "children": [
           {
             "id": "e7aab444572c5d14",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Obsidian.md",
+                "file": "INTRO TO NETWORKING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Obsidian.md",
+                "file": "INTRO TO NETWORKING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,23 +161,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Obsidian.md"
+                "file": "INTRO TO NETWORKING.md"
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e3cd02ac04d7d9bc",
-        "type": "tabs",
-        "dimension": 30.158730158730158,
-        "children": [
-          {
-            "id": "6a3545b380f09f51",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -186,12 +172,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e7aab444572c5d14",
+  "active": "c1e0fbc7bbc89548",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Learning Markdown.md",
-    "Learning Obsidian.md",
-    "Learning Vim.md",
-    "`.md"
+    "CCNA.md",
+    "INTRO TO NETWORKING.md",
+    "CISCO Ruter.md",
+    "Markdown.md",
+    "CS50's Web Programming with Python and JavaScript.md",
+    "HTML,CSS.md",
+    "Scss.md",
+    "Git.md",
+    "MERN Stack.md",
+    "Obsidian.md"
   ]
 }
