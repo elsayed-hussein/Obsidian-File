@@ -16,15 +16,15 @@ _This text_ is italic
 
 __This text__ is italic
 
-<!-- Strikethrough -->
-~~This text~~ is strikethrough
+<!-- Strike through -->
+~~This text~~ is strike through
 
 <!-- Horizontal Rule -->
 
 ---
 ___
 
-<!-- Blockquote -->
+<!-- Block quote -->
 > This is a quote
 
 <!-- Links -->
@@ -53,7 +53,7 @@ ___
 <!-- Images -->
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
-<!-- Github Markdown -->
+<!-- GitHub Markdown -->
 
 <!-- Code Blocks -->
 ```bash
@@ -77,7 +77,7 @@ ___
 | Name     | Email          |
 | -------- | -------------- |
 | John Doe | john@gmail.com |
-| Jane Doe | jane@gmail.com |
+| Jane Doe | Jane@gmail.com |
 <!-- Tables Aling --> 
 | Packages | Description          | Version |
 | :---     |    :----:            |    ---: |
@@ -89,7 +89,7 @@ ___
 * [ ] Task 3
 
 <!-- Link to Obsidian -->
-[[Obsidian#Learing Obsidian|Linke to Obsidian]]
+[[Obsidian#Learing Obsidian|Link to Obsidian]]
 
 <!-- Footnote -->
 Here's a sentence with a footnote. [^1]  

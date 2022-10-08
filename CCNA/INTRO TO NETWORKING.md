@@ -1,4 +1,4 @@
-1. [[CISCO Ruter]] - [[CCNA]] , CCNP
+1. [[CISCO Router]] - [[CCNA]] , CCNP
 2. Microsoft OS - MCSA
 3. Server(HW-SW) - MCSA
 4. Windows Server(AD(DC)) - MCSA

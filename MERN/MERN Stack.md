@@ -1,4 +1,4 @@
-## MERN Stack  is javascript fullstack 
+## MERN Stack  is JavaScript fullStack 
 
 --------------
 

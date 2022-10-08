@@ -1,5 +1,11 @@
 {
   "alwaysUpdateLinks": true,
   "tabSize": 2,
-  "livePreview": false
+  "livePreview": false,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "spellcheck": true
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "INTRO TO NETWORKING.md",
+            "file": "AWS/AWS.md",
             "mode": "source",
             "source": true
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "INTRO TO NETWORKING.md",
+                "file": "AWS/AWS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTRO TO NETWORKING.md",
+                "file": "AWS/AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTRO TO NETWORKING.md",
+                "file": "AWS/AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTRO TO NETWORKING.md"
+                "file": "AWS/AWS.md"
               }
             }
           }
@@ -174,15 +174,15 @@
   },
   "active": "c1e0fbc7bbc89548",
   "lastOpenFiles": [
-    "CCNA.md",
-    "INTRO TO NETWORKING.md",
-    "CISCO Ruter.md",
+    "TCP/IP Introduction and Cloud Pre-Requisite Knowledge.md",
+    "AWS/AWS.md",
+    "CS50/HTML,CSS.md",
+    "MERN/MERN Stack.md",
     "Markdown.md",
-    "CS50's Web Programming with Python and JavaScript.md",
-    "HTML,CSS.md",
-    "Scss.md",
-    "Git.md",
-    "MERN Stack.md",
-    "Obsidian.md"
+    "CS50/Git.md",
+    "CS50/CS50's Web Programming with Python and JavaScript.md",
+    "CCNA/network fundemantals.md",
+    "CCNA/INTRO TO NETWORKING.md",
+    "CCNA/INTRO TO CCAN.md"
   ]
 }
