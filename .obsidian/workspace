@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1e0fbc7bbc89548",
+        "id": "2478179140b67b6c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "AWS/AWS.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,7 +67,7 @@
       {
         "id": "39eb3969e8e68d93",
         "type": "tabs",
-        "dimension": 53.099173553719,
+        "dimension": 67.21991701244814,
         "children": [
           {
             "id": "f11414c5af4f35fb",
@@ -79,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AWS/AWS.md",
+                "file": "ToDo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,13 +103,26 @@
                 }
               }
             }
+          },
+          {
+            "id": "c1e0fbc7bbc89548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ToDo.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ba6814491c4ad966",
         "type": "tabs",
-        "dimension": 46.900826446281,
+        "dimension": 32.780082987551864,
         "children": [
           {
             "id": "e7aab444572c5d14",
@@ -121,14 +130,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS.md",
+                "file": "ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -138,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS.md",
+                "file": "ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS.md"
+                "file": "ToDo.md"
               }
             }
           }
@@ -169,20 +178,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 427.5
   },
-  "active": "c1e0fbc7bbc89548",
+  "active": "e7aab444572c5d14",
   "lastOpenFiles": [
+    "Scss.md",
+    "ToDo.md",
+    "Obsidian.md",
+    "Markdown.md",
+    "MERN/MERN Stack.md",
+    "CS50/HTML,CSS.md",
+    "CS50/CS50's Web Programming with Python and JavaScript.md",
     "TCP/IP Introduction and Cloud Pre-Requisite Knowledge.md",
     "AWS/AWS.md",
-    "CS50/HTML,CSS.md",
-    "MERN/MERN Stack.md",
-    "Markdown.md",
-    "CS50/Git.md",
-    "CS50/CS50's Web Programming with Python and JavaScript.md",
-    "CCNA/network fundemantals.md",
-    "CCNA/INTRO TO NETWORKING.md",
-    "CCNA/INTRO TO CCAN.md"
+    "CS50/Git.md"
   ]
 }
