@@ -1,0 +1,42 @@
+## 1.  [[Arduino controlled solar charger]]
+## 2. [[ Greenhouse]]
+## 3. [[https://www.youtube.com/watch?v=u68JKMOuYcs |  IOT Based Solar Panel Monitoring System Using Arduino & ESP8266]]
+
+
+
+# Get 
+1. Arduino Uno (1).  (699 EGP)
+2.  NodeMCU ESP8266 (1). (154Egp)
+4. ESP8266 ESP-03 (1). (90 Egp) 
+5. ESP32 (1).X (289 Egp)
+6. Servo Motor (4). (352 EGP) 
+7. Potentiometer (2{10k}).(60.18 Egp)
+8. DHT22(1).(180 Egp)
+9. DHT11(1).(100 Egp)
+10. DS18B20+(1).X (140 Egp)
+11. solenoid valve(1). (188 Egp)
+12. relay(3). (95Egp)
+13. Soil Moisture Sensor(2).X(300 Egp)
+14. Capacitive Soil Moisture Sensors(2).(575 Egp)
+15. power supply from 3v dc  (1). (149 Egp)
+16. power supply from 5v dc  (1). (149 Egp)
+17. led (10). (74.99 Egp) 
+18. 100 ohm resistor  (10).(15 Egp)
+19. 1k ohm resistor (5).(14.80 Egp)
+20. 2n2222 transistor (5).(198.3 Egp)
+21. Voltage Sensor Module(2).(180 Egp)
+22. Current Sensor Module ACS712 30A(2).(250 Egp)
+23. Water Flow (1).(412.50 Egp)
+24. Water Level Float Switch(2).(250 Egp)
+25. solar cell 18V 10W(2).(800 Egp)
+26. LDR(5).(270Egp)
+27. lm317(5). (150 Egp)
+28. oled display module 12864(1). (239 Egp)
+29. pcp bord (5).(10$ ~)
+30. pins. (93Egp)
+31. TFT 2.8 Touch LCD .X(499.18 Egp)
+32. button (10).(25.79Egp) 
+33. Battery. (1000 ~Egp)
+34. LM2596 DC (1).(94 Egp) 
+35. Vol & Amp lcd (1).(133 Egp)
+36. Other . (500 ~Egp)
